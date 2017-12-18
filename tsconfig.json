@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false, //ele pode não deixar compilar caso exista errors.
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    }
+}
